@@ -1,0 +1,79 @@
+
+user 
+{	"id_user": "id",
+	"email": "strin",
+	"password": "password",
+	"role":['ADMIN','USER'],
+	"account": {
+		"amount": "object",
+		"status":"siler"
+	},
+	"games": ["doom", "cs"],
+	"friends": ["id_user", "id_user"],
+	"history": [{
+		"dats": "15.11.2022",
+		"status": "-",
+		"sum": 200.00
+	}, {}]
+
+}
+
+
+
+
+game
+{
+	"id_game": "id",
+	"name": "string",
+	"ref": "string",
+	"cost": "double",
+	"owners": [{
+		"name": "id_user",
+		"save": [{
+			"level": "integer",
+			"live": "5",
+			"inventory": []
+		}]
+	}],
+	"description": {
+	"photo": [],
+	"video": [],
+	"text": []
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+Карточка игры
+{
+	"name": "string",
+	"cost": "double",
+	"id_game": "id",
+	"description": {
+		"photo": [],
+		"video": [],
+		"text": []
+	}
+
+}
+
+

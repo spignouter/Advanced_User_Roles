@@ -1,0 +1,61 @@
+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
+
+ Start MongoDB.
+	sudo systemctl start mongod
+	
+Verify that MongoDB has started successfully
+	sudo systemctl status mongod
+	
+Stop MongoDB
+	sudo systemctl stop mongod
+
+Restart MongoDB
+	sudo systemctl restart mongod
+
+Begin using MongoDB
+	mongosh
+ 
+ Продвинутая JWT авторизация на React и Node js. Access, refresh, активация по почте 
+https://www.youtube.com/watch?v=fN25fMQZ2v0
+
+
+Function Expression
+https://learn.javascript.ru/function-expressions
+
+Стрелочные функции, основы
+https://learn.javascript.ru/arrow-functions-basics
+
+Промисы
+https://learn.javascript.ru/promise-basics
+
+https://learn.javascript.ru/promise
+
+Загрузка ресурсов: onload и onerror
+https://learn.javascript.ru/onload-onerror
+
+Async/await
+https://learn.javascript.ru/async-await
+
+В чем разница между объявлением переменной, её определением и инициализацией
+https://swiftbook.ru/post/tutorials/obyavlenie-opredelenie-inicializaciya/
+
+Перевод официальной документации Typescript на русский.
+http://typescript-lang.ru/docs/
+
+Формы
+https://ru.reactjs.org/docs/forms.html
+
+Mobx & React Полный курс 2021
+https://www.youtube.com/watch?v=jn-L1SFYdIc
+
+Cross-Origin Resource Sharing (CORS)
+https://developer.mozilla.org/ru/docs/Web/HTTP/CORS
+
+CORS для чайников: история возникновения, как устроен и оптимальные методы работы
+https://habr.com/ru/company/macloud/blog/553826/
+
+[40] Security: CORS | [Подготовка JS разработчика к интервью]
+https://www.youtube.com/watch?v=uSo3_ILwlQs
+
+CORS - Cross Origin Resource Sharing, Совместное использование ресурсов между разными источниками
+https://www.youtube.com/watch?v=Rx-G3uB__zI
